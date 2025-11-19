@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./Maruf Banner.png" alt="Marufur Rahman Image " width="100%"/>
+</div>
+
+
 <h1 align="center">Assalamualaikum, I'm Marufur Rahman Rahat</h1>
 <h3 align="center">a dedicated Full-Stack Developer specializing in the MERN stack. With expertise in C, C++, JavaScript, React, Node.js, MongoDB, Express, and Firebase, I thrive on building scalable solutions that solve real-world challenges.</h3>
 
